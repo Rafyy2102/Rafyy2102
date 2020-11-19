@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelass0221/)](https://www.linkedin.com/in/rafaelass0221/)
 
 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?Rafyy2102=Rafyy2102&show_icons=true&theme=merko)
-                                                                     
+<p align="right">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=Rafyy2102&show_icons=true&theme=merko)
+  
+</p>                                                                    
