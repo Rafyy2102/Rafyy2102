@@ -20,7 +20,5 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelass0221/)](https://www.linkedin.com/in/rafaelass0221/) ![](https://img.shields.io/github/languages/top/Rafyy2102/Calculadora_IMC_Kotlin) ![](https://img.shields.io/github/languages/top/Rafyy2102/blog_pessoal)  ![](https://img.shields.io/github/languages/top/Rafyy2102/Flutter-basico-Udemy) ![](https://img.shields.io/github/languages/top/Rafyy2102/aula_javascript) ![](https://img.shields.io/github/languages/top/Rafyy2102/SitesVendas) ![](https://img.shields.io/github/languages/top/Rafyy2102/projeto-csharp) 
 
 <p align="right">
-  
-  ![](https://github-readme-stats.vercel.app/api?username=Rafyy2102&show_icons=true&theme=merko)
-  
-</p>                                                                    
+  ![Rafyy2102](https://github-readme-stats.vercel.app/api?username=Rafyy2102&show_icons=true&theme=merko)
+</p>                                                                  
