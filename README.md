@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ## Rafaela dos Santos Silva 👋
 
 <!--
 **Rafyy2102/Rafyy2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafyy2102)](https://github.com/Rafyy2102)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelass0221/)](https://www.linkedin.com/in/rafaelass0221/) ![](https://img.shields.io/github/languages/count/Rafyy2102/Rafyy2102) ![](https://img.shields.io/github/languages/top/Rafyy2102/Rafyy2102) ![](https://img.shields.io/github/languages/top/Rafyy2102/Rafyy2102)  ![](https://img.shields.io/github/languages/top/Rafyy2102/Rafyy2102)  ![](https://img.shields.io/github/languages/top/Rafyy2102/Rafyy2102) 
+
+![](https://github-readme-stats.vercel.app/api?username=RafaelaSS&show_icons=true&theme=merko)
