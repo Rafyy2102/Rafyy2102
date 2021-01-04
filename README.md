@@ -1,5 +1,5 @@
 ### Olá sou   
-## Rafaela dos Santos Silva 👋
+## Rafaela dos Santos Silva 👋 <a href="https://api.whatsapp.com/send?phone=5511998578317&text=Ol%C3%A1%20sou%20a%20Rafaela(rafyy2102)%20em%20que%20posso%20ajudar!!" target="_blank" class="whatsapp"><i class="icofont-whatsapp"></i></a>
 
 <!--
 **Rafyy2102/Rafyy2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 -->
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafyy2102)](https://github.com/Rafyy2102)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelass0221/)](https://www.linkedin.com/in/rafaelass0221/) ![](https://img.shields.io/github/languages/top/Rafyy2102/Calculadora_IMC_Kotlin) ![](https://img.shields.io/github/languages/top/Rafyy2102/blog_pessoal)  ![](https://img.shields.io/github/languages/top/Rafyy2102/Flutter-basico-Udemy) ![](https://img.shields.io/github/languages/top/Rafyy2102/aula_javascript) ![](https://img.shields.io/github/languages/top/Rafyy2102/SitesVendas) ![](https://img.shields.io/github/languages/top/Rafyy2102/projeto-csharp)       
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelass0221/)](https://www.linkedin.com/in/rafaelass0221/) ![](https://img.shields.io/github/languages/top/Rafyy2102/Calculadora_IMC_Kotlin) ![](https://img.shields.io/github/languages/top/Rafyy2102/blog_pessoal)  ![](https://img.shields.io/github/languages/top/Rafyy2102/Flutter-basico-Udemy) ![](https://img.shields.io/github/languages/top/Rafyy2102/aula_javascript) ![](https://img.shields.io/github/languages/top/Rafyy2102/SitesVendas) ![](https://img.shields.io/github/languages/top/Rafyy2102/projeto-csharp)   
+
+
 
  ![computador](https://user-images.githubusercontent.com/52088299/99727491-cdbb5780-2a96-11eb-8052-84e9f38d3511.png)    ![](https://github-readme-stats.vercel.app/api?username=Rafyy2102&show_icons=true&theme=merko) 
  
