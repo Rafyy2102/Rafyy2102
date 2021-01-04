@@ -1,5 +1,5 @@
 ### Olá sou   
-## Rafaela dos Santos Silva 👋 <a href="https://api.whatsapp.com/send?phone=5511998578317&text=Ol%C3%A1%20sou%20a%20Rafaela(rafyy2102)%20em%20que%20posso%20ajudar!!" target="_blank" class="whatsapp"><i class="icofont-whatsapp"></i></a>
+## Rafaela dos Santos Silva 👋 <a href="https://api.whatsapp.com/send?phone=5511998578317&text=Ol%C3%A1%20sou%20a%20Rafaela(rafyy2102)%20em%20que%20posso%20ajudar!!" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F857232110317274788%2F&psig=AOvVaw0-JsiKVIt9slI_91Dy5ihu&ust=1609855790501000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIi5oaa6gu4CFQAAAAAdAAAAABAR" width="40" height="40"/></a>
 
 <!--
 **Rafyy2102/Rafyy2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafyy2102)](https://github.com/Rafyy2102)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelass0221/)](https://www.linkedin.com/in/rafaelass0221/) ![](https://img.shields.io/github/languages/top/Rafyy2102/Calculadora_IMC_Kotlin) ![](https://img.shields.io/github/languages/top/Rafyy2102/blog_pessoal)  ![](https://img.shields.io/github/languages/top/Rafyy2102/Flutter-basico-Udemy) ![](https://img.shields.io/github/languages/top/Rafyy2102/aula_javascript) ![](https://img.shields.io/github/languages/top/Rafyy2102/SitesVendas) ![](https://img.shields.io/github/languages/top/Rafyy2102/projeto-csharp)   
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelass0221/)](https://www.linkedin.com/in/rafaelass0221/) 
+![](https://img.shields.io/github/languages/top/Rafyy2102/Calculadora_IMC_Kotlin) ![](https://img.shields.io/github/languages/top/Rafyy2102/blog_pessoal)  ![](https://img.shields.io/github/languages/top/Rafyy2102/Flutter-basico-Udemy) ![](https://img.shields.io/github/languages/top/Rafyy2102/aula_javascript) ![](https://img.shields.io/github/languages/top/Rafyy2102/SitesVendas) ![](https://img.shields.io/github/languages/top/Rafyy2102/projeto-csharp)   
 
 
 
