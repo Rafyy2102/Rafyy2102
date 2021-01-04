@@ -1,5 +1,8 @@
 ### Olá 👋 sou   
-## Rafaela dos Santos Silva  <a href="https://api.whatsapp.com/send?phone=5511998578317&text=Ol%C3%A1%20sou%20a%20Rafaela(rafyy2102)%20em%20que%20posso%20ajudar!!" target="_blank"> <img src="https://icongr.am/fontawesome/whatsapp.svg?size=128&color=339b31" width="40" height="40"/></a>
+## Rafaela dos Santos Silva  
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5511998578317&text=Ol%C3%A1%20sou%20a%20Rafaela(rafyy2102)%20em%20que%20posso%20ajudar!!" > 
+	<img src="https://icongr.am/fontawesome/whatsapp.svg?size=128&color=339b31" width="40" height="40"/>
+</a>
 
 <!--
 **Rafyy2102/Rafyy2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
