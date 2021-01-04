@@ -1,5 +1,5 @@
 ### Olá sou   
-## Rafaela dos Santos Silva 👋 <a href="https://api.whatsapp.com/send?phone=5511998578317&text=Ol%C3%A1%20sou%20a%20Rafaela(rafyy2102)%20em%20que%20posso%20ajudar!!" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F857232110317274788%2F&psig=AOvVaw0-JsiKVIt9slI_91Dy5ihu&ust=1609855790501000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIi5oaa6gu4CFQAAAAAdAAAAABAR" width="40" height="40"/></a>
+## Rafaela dos Santos Silva 👋  <a href="https://api.whatsapp.com/send?phone=5511998578317&text=Ol%C3%A1%20sou%20a%20Rafaela(rafyy2102)%20em%20que%20posso%20ajudar!!" target="_blank"> <img src="https://icongr.am/fontawesome/whatsapp.svg?size=128&color=339b31" width="40" height="40"/></a>
 
 <!--
 **Rafyy2102/Rafyy2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,19 +28,24 @@ Here are some ideas to get you started:
 <h3 align="left">Está são as linguagens e ferramentas que já estudei:</h3>
 <p align="left"> 
  
- <a href="https://developer.android.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
- <a href="https://angular.io" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
- <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
- <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
- <a href="https://www.oracle.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
- <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
- <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
- <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
- <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
- <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
- <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
+ <img src="https://icongr.am/devicon/android-original.svg?size=128&color=currentColor" alt="android" width="40" height="40"/> 
+ <img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" alt="angularjs" width="40" height="40"/>
+ <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=6e0576" alt="bootstrap" width="40" height="40"/> 
+ <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=6e0576" alt="cplusplus" width="40" height="40"/> 
+ <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=6e0576" alt="csharp" width="40" height="40"/> 
+ <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=000000" alt="css3" width="40" height="40"/> 
+ <img src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" alt="docker" width="40" height="40"/> 
+ <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=000000" alt="html5" width="40" height="40"/> 
+ <img src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor" alt="java" width="40" height="40"/>  
+ <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/>  
+ <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
+ <img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" alt="mysql" width="40" height="40"/> 
+ <img src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor" alt="oracle" width="40" height="40"/> 
+ <img src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" alt="php" width="40" height="40"/>  
+ <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+ <img src="https://icongr.am/devicon/python-original-wordmark.svg?size=128&color=currentColor" alt="python" width="40" height="40"/> 
+ <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+ <img src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor" alt="typescript" width="40" height="40"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
 </p>
