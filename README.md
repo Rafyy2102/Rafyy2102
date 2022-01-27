@@ -28,31 +28,17 @@ Here are some ideas to get you started:
 <h3 align="left">Está são as linguagens e ferramentas que já estudei:</h3>
 <p align="left">   
   
- <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=6e0576" alt="cplusplus" width="40" height="40"/> 
- <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=6e0576" alt="csharp" width="40" height="40"/>  
  <img src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor" alt="java" width="40" height="40"/> 
  <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/>
- <img src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor" alt="typescript" width="40" height="40"/>
- <img src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" alt="php" width="40" height="40"/>    
- <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
- <img src="https://icongr.am/devicon/python-original.svg?size=128&color=339b31" alt="python" width="40" height="40"/> 
- <img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" alt="angularjs" width="40" height="40"/>
- <img src="https://icongr.am/devicon/android-original.svg?size=128&color=currentColor" alt="android" width="40" height="40"/>
-  
+ <img src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor" alt="typescript" width="40" height="40"/>  
+ <img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" alt="angularjs" width="40" height="40"/>  
  <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=6e0576" alt="bootstrap" width="40" height="40"/>
  <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=000000" alt="css3" width="40" height="40"/> 
- <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=000000" alt="html5" width="40" height="40"/>     
- 
- <img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" alt="mysql" width="40" height="40"/> 
- <img src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor" alt="oracle" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
- <img src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" alt="docker" width="40" height="40"/> 
-	
- <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
- 
- <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
- 
+ <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=000000" alt="html5" width="40" height="40"/>  
+ <img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" alt="mysql" width="40" height="40"/>  
+ <img src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" alt="docker" width="40" height="40"/>	
+ <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>  
+ <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
  <img src="https://icongr.am/devicon/heroku-original-wordmark.svg?size=128&color=339b31" alt="heroku" width="40" height="40"/>
- 
- <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
+  
 </p>
